@@ -1,4 +1,4 @@
-# Data and AI Python Open source sprints
+# Python Open Source Sprints
 
 ## Libraries to contribute to 
 TBA
